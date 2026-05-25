@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.env
+data/raw/
+*.log
+data/reddit_ai_jobs_public.csv
+data/analysed_reddit_ai_jobs_public.csv
+data/analysed_sample_reddit_ai_jobs.csv

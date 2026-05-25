@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+vaderSentiment
+scikit-learn
+networkx
+python-louvain
+praw
+tqdm
+wordcloud
+jupyter
+ipykernel
+python-dotenv
+requests
